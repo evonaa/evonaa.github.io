@@ -8,6 +8,6 @@
 
 ## 论文发表
 
-![350](C:\Users\1796591693\Documents\evonaa.github.io\images\350.jpg)
+![](images/350.jpg)
 
 Note: 这是一个演示文档。
