@@ -8,6 +8,6 @@
 
 ## 猫猫图
 
-![](images/nishui.jpg)
+![](images/nishui.JPG)
 
 Note: 这是一个演示文档。
