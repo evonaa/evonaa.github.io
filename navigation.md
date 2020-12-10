@@ -1,18 +1,20 @@
-# MDwiki
+# BOOMBAYAH
 
-[About](index.md)
+[WHISTLE](index.md)
 
-[心理咨询与治疗]()
+[Lessons Recording]()
 
-  * [精神分析&阿德勒疗法]( 心理咨询/精神分析&阿德勒疗法.md)
-  * [存在主义&行为&认知行为&理情疗法]( 心理咨询/存在主义&行为&认知行为&理情疗法.md)
+#  ·Psychological Counseling 
+
+  * [Psychoanalysis & Adlerian Therapy]( 心理咨询/精神分析&阿德勒疗法.md)
+  * [Existentialist & Behavioral & Cognitive Behavioral & Rational Emotive Therapy]( 心理咨询/存在主义&行为&认知行为&理情疗法.md)
+  * [Comparison of Philosophical Thoughts](心理咨询/不同流派基本哲学思想比较.md)
 - - - -
-  * # Advanced
-  * [不同流派哲学思想比较](心理咨询/不同流派基本哲学思想比较.md)
+  * # Animal Behavior
 
-[动物行为学]()
+  * [Stray Cats](动物行为学/流浪猫图.md)
 
-  * [流浪猫图](动物行为学/流浪猫图.md)
+[BLACKPINK]()
 
 
 
