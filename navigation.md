@@ -14,9 +14,11 @@
 
 [BLACKPINK]()
 
-[Album 2020]( Album/Album.md)
+  * [ Album 2020]( Album/Album.md)
 
+    
 
+    
 
 
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
