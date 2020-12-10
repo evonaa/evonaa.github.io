@@ -10,9 +10,9 @@
   * # Advanced
   * [不同流派哲学思想比较](心理咨询/不同流派基本哲学思想比较.md)
 
-[Math]()
+[动物行为学]()
 
-  * [Levy Processes](math/levy_processes.md)
+  * [流浪猫图](动物行为学/流浪猫图.md)
 
 [Coding](coding/PythonNote.md)
 
