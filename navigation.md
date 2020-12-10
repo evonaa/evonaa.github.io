@@ -1,4 +1,4 @@
-# BOOMBAYAH
+# MDwiki
 
 [WHISTLE](index.md)
 
@@ -13,6 +13,8 @@
   * [Stray Cats](动物行为学/流浪猫图.md)
 
 [BLACKPINK]()
+
+[Album 2020]( Album/Album.md)
 
 
 
