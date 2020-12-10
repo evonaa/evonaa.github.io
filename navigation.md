@@ -4,8 +4,6 @@
 
 [Lessons Recording]()
 
-#  ·Psychological Counseling 
-
   * [Psychoanalysis & Adlerian Therapy]( 心理咨询/精神分析&阿德勒疗法.md)
   * [Existentialist & Behavioral & Cognitive Behavioral & Rational Emotive Therapy]( 心理咨询/存在主义&行为&认知行为&理情疗法.md)
   * [Comparison of Philosophical Thoughts](心理咨询/不同流派基本哲学思想比较.md)
